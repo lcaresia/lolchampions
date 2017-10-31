@@ -1,0 +1,40 @@
+[
+    {
+        "champion":{
+            "img_url": "http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Aatrox.png",
+            "name": "Aatrox",
+            "title": "a Espada Darkin",
+            "city": "Independente"
+        },
+        "attributes":{
+            "life": "537.8 (+85 por nível)",
+            "life_regeneration": "6.59 (+0.5 por nível)",
+            "mana": "Desconhecido",
+            "mana_regeneration": "Desconhecido",
+            "attack_damage": "60.376 (+3.2 por nível)",
+            "attack_speed": "0.651 (+3% por nível)",
+            "movement_speed": "345",
+            "armor": "24.384 (+3.8 por nível)",
+            "magic_resistance": "32.1 (+1.25 por nível)"
+        }
+    },
+    {
+        "champion":{
+            "name": "Ahri",
+            "img_url": "http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Ahri.png",
+            "title": "a Raposa de Nove Caudas",
+            "city": "Ionia"
+        },
+        "attributes":{
+            "life": "514.4 (+80 por nível)",
+            "life_regeneration": "6.505 (+0.6 por nível)",
+            "mana": "Desconhecido",
+            "mana_regeneration": "Desconhecido",
+            "attack_damage": "53.04 (+3 por nível)",
+            "attack_speed": "0.668 (+2% por nível)",
+            "movement_speed": "330",
+            "armor": "20.88 (+3.5 por nível)",
+            "magic_resistance": "30 (+0 por nível)"
+        }
+    }
+]
