@@ -36,5 +36,62 @@
             "armor": "20.88 (+3.5 por nível)",
             "magic_resistance": "30 (+0 por nível)"
         }
+    },
+    {
+        "champion":{
+            "img_url": "http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Akali.png", 
+            "name": "Akali",
+            "title": "o Punho das Sombras",
+            "city": "Ionia"
+    },
+        "attributes":{
+            "life": "587.8 (+85 por nível)",
+            "life_regeneration": "6.59 (+0.5 por nível)",
+            "mana": "200",
+            "mana_regeneration": "50",
+            "attack_damage": "58.376 (+3.2 por nível)",
+            "attack_speed": "0.694 (+3.1% por nível)",
+            "movement_speed": "350",
+            "armor": "26.38 (+3.5 por nível)",
+            "magic_resistance": "32.1 (+1.25 por nível)"
+        }
+    },
+    {
+       "champion":{
+          "img_url":"http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Alistar.png",
+          "name":"Alistar",
+          "title":"o Minotauro",
+          "city":"Independente"
+       },
+       "attributes":{
+          "life":"613.36 (+106 por nível)",
+          "life_regeneration":"8.675 (+0.85 por nível)",
+          "mana":"Desconhecido",
+          "mana_regeneration":"Desconhecido",
+          "attack_damage":"61.1116 (+3.62 por nível)",
+          "attack_speed":"0.625 (+2.125% por nível)",
+          "movement_speed":"330",
+          "armor":"24.38 (+3.5 por nível)",
+          "magic_resistance":"32.1 (+1.25 por nível)"
+       }
+    },
+    {
+       "champion":{
+          "img_url":"http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Amumu.png",
+          "name":"Amumu",
+          "title":"a Múmia Triste",
+          "city":"Bandle City"
+       },
+       "attributes":{
+          "life":"613.12 (+84 por nível)",
+          "life_regeneration":"8.875 (+0.85 por nível)",
+          "mana":"Desconhecido",
+          "mana_regeneration":"Desconhecido",
+          "attack_damage":"53.384 (+3.8 por nível)",
+          "attack_speed":"0.638 (+2.18% por nível)",
+          "movement_speed":"335",
+          "armor":"23.544 (+3.8 por nível)",
+          "magic_resistance":"32.1 (+1.25 por nível)"
+       }
     }
 ]
