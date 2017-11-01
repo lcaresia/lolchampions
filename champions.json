@@ -113,4 +113,23 @@
             "magic_resistance":"32.1 (+1.25 por nível)"
         }
     },
+    {  
+        "champion":{  
+            "img_url":"http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Quinn.png",
+            "name":"Quinn",
+            "title":"as Asas de Demacia",
+            "city":"Demacia"
+        },
+        "attributes":{  
+            "life":"532.8 (+85 por nível)",
+            "life_regeneration":"5.42 (+0.55 por nível)",
+            "mana":"Desconhecido",
+            "mana_regeneration":"Desconhecido",
+            "attack_damage":"54.46 (+2.41 por nível)",
+            "attack_speed":"0.668 (+3.1% por nível)",
+            "movement_speed":"335",
+            "armor":"30 (+0 por nível)",
+            "magic_resistance":"32.1 (+1.25 por nível)"
+        }
+    }
 ]
